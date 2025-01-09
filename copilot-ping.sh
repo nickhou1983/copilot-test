@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # URL to test
-URL="https://api.business.githubcopilot.com"
+URL="api.business.githubcopilot.com"
 
 # Output file
 OUTPUT_FILE="copilot-ping"
